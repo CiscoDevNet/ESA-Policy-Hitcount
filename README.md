@@ -110,7 +110,7 @@ Default-out                         9
 
 ## Author
 
-ciscoketcheon - https://github.com/ciscoketcheon
+ciscoketcheon - ketcheon@cisco.com
 
 ---
 
@@ -122,6 +122,6 @@ ciscoketcheon - https://github.com/ciscoketcheon
 - Add SSL support, currently is not fully working yet
 
 
-**Author:** [ciscoketcheon](https://github.com/ciscoketcheon)  
-**License:** BSD3 
+**Author:** ketcheon@cisco.com  
+
 
