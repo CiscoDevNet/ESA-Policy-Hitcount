@@ -20,6 +20,8 @@ In addition, the tool is useful for **policy housekeeping**. Policies with **zer
 - Clean, easy-to-read tabular output.
 - All user parameters are centralized at the top of the script.
 
+Updates May 2026 - added SMA version of the script - "sma_policy_hitcount.py". For environment with SMA centralized reporting, SMA will have combined hitcounts from respective ESAs. 
+
 ---
 
 ## Requirements
