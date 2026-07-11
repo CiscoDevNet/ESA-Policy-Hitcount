@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+# 
+# SPDX-License-Identifier: Apache-2.0  
+
 #!/usr/bin/env python3
 """
 ESA Mail Policy Hitcount Reporter (Policy Name Version)
