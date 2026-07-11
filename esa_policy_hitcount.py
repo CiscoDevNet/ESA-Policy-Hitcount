@@ -1,7 +1,3 @@
-# Copyright 2026 Cisco Systems, Inc. and its affiliates
-# 
-# SPDX-License-Identifier: Apache-2.0  
-
 #!/usr/bin/env python3
 """
 ESA Mail Policy Hitcount Reporter (Policy Name Version)
@@ -19,11 +15,11 @@ import urllib3
 import base64
 
 # ---------------- USER PARAMETERS ---------------- #
-ESA_IP = "x.x.x.x"                # ESA IP or hostname
+ESA_IP = "<ESA_IP_OR_HOSTNAME>"                # ESA IP or hostname
 ESA_PORT = 6080                    # ESA API port, this is default API HTTP
-API_USER = "xxxxx"              # API username
-API_PASS = "xxxxx"          # API password
-DAYS_TO_QUERY = 1                  # Number of days to query, default 1 day
+API_USER = "<API_USER>"              # API username
+API_PASS = "<API_PASS>"          # API password
+DAYS_TO_QUERY = 2                  # Number of days to query, default 1 day
 TOP_N_POLICIES = 10                # Top N policies to retrieve, default Top 10
 VERIFY_SSL = False                 # True if ESA has valid SSL cert, SSL cert is not supported yet, to be added in next release.
 # ------------------------------------------------- #
