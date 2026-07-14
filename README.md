@@ -256,6 +256,7 @@ ciscoketcheon — ketcheon@cisco.com
 - Full SSL support (currently HTTP API recommended)
 - Scheduled/recurring health check runs
 
+---
 
 ## Licensing
 
